@@ -1,0 +1,8 @@
+#minio server
+
+MINIO_ENDPOINT: "http://localhost:9000"
+MINIO_ACCESSKEY: "root"
+MINIO_SECRETKEY: "password"
+MINIO_USESSL: true
+
+NATS_URL: "nats://127.0.0.1:4222"
